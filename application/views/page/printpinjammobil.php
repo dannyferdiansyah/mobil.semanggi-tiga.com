@@ -107,7 +107,6 @@
                     <tr>
                       <th><center>Pemakai</center></th>
                       <th><center>Mengetahui</center></th>
-                      <th><center>Mengetahui</center></th>
                       <th><center>Disetujui</center></th>
                     </tr>
                     <tr>
@@ -126,7 +125,6 @@
                       <img src="<?php echo base_url() ?>ttd/<?php echo $peminjaman->ttd_acc2 ?>" width="100" height="70"><br>
                       <?php echo $peminjaman->pengacc2 ?>
                       <?php } ?></center></th>
-                      <th><center></center></th>
                     </tr>
                   </table>
               </div>  
